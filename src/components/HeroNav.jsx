@@ -43,7 +43,7 @@ const HeroNav = () => {
     { name: "Host", id: "host", href: "#host" },
     { name: "Benefits", id: "benefits", href: "#benefits" },
     { name: "Reviews", id: "reviews", href: "#reviews" },
-    { name: "Agenda", id: "agenda", href: "#agenda" },
+    { name: "About", id: "about", href: "#about" },
   ];
 
   const scrollToSection = (sectionId) => {
