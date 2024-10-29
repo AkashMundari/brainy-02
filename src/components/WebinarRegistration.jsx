@@ -225,7 +225,7 @@ const WebinarRegistration = () => {
 
         <div
           className="flex flex-col items-center text-center mt-10"
-          id="agenda"
+          id="about"
         >
           <h1 className="text-4xl poppins-semibold mb-8 pt-4">
             Inside the Brainy Abacus Program
